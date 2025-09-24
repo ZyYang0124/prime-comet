@@ -35,7 +35,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Professor (full)"
 
 organizations:
   - name: "Hebei University"
@@ -59,9 +59,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jxzhang1976@163.com'
+    link: 'malito:jxzhang1976@163.com'
 
-email: ''
+email: 'jxzhang1976@163.com'
 
 user_groups:
   - Researcher

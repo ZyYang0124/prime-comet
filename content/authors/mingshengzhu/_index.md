@@ -36,7 +36,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Professor (1950-2010)"
 
 organizations:
   - name: "Hebei University"
@@ -44,24 +44,14 @@ organizations:
 
 bio: "His research interests in taxonomy of Arachnida."
 
-interests:
-  - "Taxonomy"
-
-education:
-  courses:
-    - course: "MSc in Zoology"
-      institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
-
 user_groups:
   - Founder
 
 ---
 
-Dr. Song is an academician of the Chinese Academy of Sciences and a founding figure of modern arachnology in China. After joining Hebei University in 1999, he served as Vice Director of the Institute of Zoology, CAS. He has made outstanding contributions to spider taxonomy and biodiversity research, describing over 300 new species and establishing several new genera and subfamilies. As chief editor of *Fauna Sinica: Arachnida* and author of *Spiders of China*, he published more than 200 scientific papers and 20 monographs, laying a solid foundation for the development of arachnology in China.
-
-Dr. Song actively promoted the institutionalization and internationalization of arachnological research in China by founding the Chinese Arachnological Society and launching the journal *Acta Arachnologica Sinica*. His scholarly work has significantly advanced studies in spider systematics and faunistics, fostering extensive international collaboration and exerting a profound and lasting influence on the development of arachnology both in China and worldwide.
+- One of the founders of the Arachnology Laboratory at Hebei University.
+- Made significant contributions to the classification of Chinese spiders (Araneae), harvestmen (Opiliones), and scorpions (Scorpiones).
+- Described over 320 new species, 5 new genera, and 2 new subfamilies.
+- Published 110+ research papers, and led key volumes in the Fauna Sinica series. Notably, his volume on Araneae: Theridiidae was lauded by Harvard's Prof. Herbert W. Levi as "a model for global taxonomic treatises".
+- Collected and curated a pivotal research collection of 100,000+ arachnid specimens, including type specimens of over 300 species.
 

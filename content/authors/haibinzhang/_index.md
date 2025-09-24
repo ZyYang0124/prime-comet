@@ -41,7 +41,7 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research focuses on the taxonomy, phylogeny, and species delimitation of the tarantulas."
+bio: "Tibetan"
 
 interests:
   - "Evolution"
@@ -56,13 +56,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kunyuspider1996@gmail.com'
+    link: 'malito:zhb1050@gmail.com'
 
-email: ''
+email: 'zhb1050@gmail.com'
 
 user_groups:
   - Student
 
 ---
 
-Kun's master thesis focuses on the taxonomy of the *Laufeia* clade (Salticidae: Euophryini). His doctoral research is on the taxonomy, phylogeny, and species delimitation of the Chinese tarantulas (Theraphosidae).
+Haibin's master's project focuses on the taxonomy of the Chinese subfamily Gnaphosinae (Gnaphosidae), with a particular interest in the spider diversity of Xizang.

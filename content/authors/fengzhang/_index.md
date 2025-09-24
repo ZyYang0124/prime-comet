@@ -47,21 +47,12 @@ interests:
   - "Evolution"
   - "Taxonomy"
 
-education:
-  courses:
-    - course: "MSc in Zoology"
-      institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
-
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'dudu06042001@163.com'
+    link: 'mailto:dudu06042001@163.com'
 
-email: ''
+email: 'dudu06042001@163.com'
 
 user_groups:
   - Principal Investigators

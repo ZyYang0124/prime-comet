@@ -41,7 +41,7 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research focuses on the taxonomy, phylogeny, and species delimitation of the tarantulas."
+bio: "My research focuses on the comparative genomics."
 
 interests:
   - "Evolution"
@@ -56,14 +56,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kunyuspider1996@gmail.com'
+    link: 'malito:2512466425@qq.com'
 
-email: ''
+email: '2512466425@qq.com'
 
 user_groups:
   - Student
 
 ---
 
-Kun's master thesis focuses on the taxonomy of the *Laufeia* clade (Salticidae: Euophryini). His doctoral research is on the taxonomy, phylogeny, and species delimitation of the Chinese tarantulas (Theraphosidae).
+Aidie's master's thesis focuses on the study of drought tolerance adaptation in Solifugae based on comparative genomics.
 

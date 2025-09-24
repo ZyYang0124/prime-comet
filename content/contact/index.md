@@ -9,24 +9,25 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: zyyang0124@gmail.com
-      phone: 888 888 88 88
+        Passionate about arachnids and evolution? We welcome motivated students and researchers to join our lab. Background in biology, taxonomy, genomics, or related fields is great — curiosity and enthusiasm are essential.
+
+        Reach out to explore research opportunities!
+      email: dudu06042001@163.com
       address:
         street: 180 Wusi East Road
         city: Baoding
-        region: CA
+        region: Hebei Prov.
         postcode: '071002'
         country: China
         country_code: CN
       coordinates:
         latitude: '38.8692'
         longitude: '115.5093'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      directions: 2nd floor of the Zoology Building, Hebei University
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -56,7 +57,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: mygalomorphae.jpg
           filters:
             brightness: 1
           parallax: false

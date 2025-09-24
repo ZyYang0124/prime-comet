@@ -41,7 +41,7 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research interests in evolution of jumping spiders."
+bio: "My research interest is evolution biology."
 
 interests:
   - "Evolution"
@@ -59,13 +59,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zyyang0124@gmail.com'
+    link: 'mailto:zyyang0124@gmail.com'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
 
-email: ''
+    
+email: 'zyyang0124@gmail.com'
 
 user_groups:
   - Student
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My master's research focused on the phylogeny and taxonomy of the jumping spider tribe Chrysillini.
+
+My doctoral work centers on the evolution, genetic underpinnings, and ecological significance of coloration in jumping spiders.

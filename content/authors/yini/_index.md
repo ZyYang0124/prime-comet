@@ -47,19 +47,10 @@ interests:
   - "Evolution"
   - "Taxonomy"
 
-education:
-  courses:
-    - course: "MSc in Zoology"
-      institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
-
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zyyang0124@gmail.com'
+    link: 'mailto:zyyang0124@gmail.com'
 
 email: ''
 
@@ -68,4 +59,4 @@ user_groups:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on the phylogeny and taxonomy of the jumping spider tribe Agoriini, with particular on the genus *Synagelides*.

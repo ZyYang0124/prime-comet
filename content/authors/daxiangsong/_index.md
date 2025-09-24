@@ -44,18 +44,6 @@ organizations:
 
 bio: "His research interests in taxonomy of Arachnida."
 
-interests:
-  - "Taxonomy"
-
-education:
-  courses:
-    - course: "MSc in Zoology"
-      institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
-
 user_groups:
   - Founder
 

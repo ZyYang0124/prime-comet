@@ -41,7 +41,7 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research focuses on the taxonomy, phylogeny, and speciation of arachnids."
+bio: "My research focuses on the  taxonomy and phylogenetic studies of arachnids."
 
 interests:
   - "Evolution"
@@ -49,19 +49,19 @@ interests:
 
 education:
   courses:
-    - course: "MSc in Zoology"
+    - course: "PhD in Biology"
       institution: "Hebei University"
       year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
+    - course: "MSc in Zoology"
+      institution: "Hebei University"
+      year: 2020
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhaoyili0204@163.com'
+    link: 'mailto:zhaoyili0204@163.com'
 
-email: ''
+email: 'zhaoyili0204@163.com'
 
 user_groups:
   - Researcher

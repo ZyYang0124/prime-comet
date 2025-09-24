@@ -55,17 +55,14 @@ education:
       year: 2022
     - course: "MSc in Zoology"
       institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
+      year: 2018
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xiangboguo@126.com'
+    link: 'mailto:xiangboguo@126.com'
 
-email: ''
+email: 'xiangboguo@126.com'
 
 user_groups:
   - Researcher

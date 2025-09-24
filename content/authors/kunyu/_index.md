@@ -52,16 +52,13 @@ education:
     - course: "MSc in Zoology"
       institution: "Hebei University"
       year: 2023
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kunyuspider1996@gmail.com'
+    link: 'mailto:kunyuspider1996@gmail.com'
 
-email: ''
+email: 'kunyuspider1996@gmail.com'
 
 user_groups:
   - Student

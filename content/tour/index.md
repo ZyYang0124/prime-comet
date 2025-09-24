@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: mygalomorphae.jpg
+            filename: _PPJ7425-1.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,17 +23,17 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: PPJ6936_1.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Explore Everything About Spiders
+        content: 'A wonderful life journey!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: PPJ3889.jpg
             filters:
               brightness: 0.5
           position: center
