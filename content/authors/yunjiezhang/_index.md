@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-
 first_name: "Yunjie"
 last_name: "Zhang"
 
@@ -36,33 +35,27 @@ authors:
 
 superuser: false
 
-role: "Ph.D Student"
+role: "Master Student"
 
 organizations:
   - name: "Hebei University"
     url: ''
 
-# bio: "My research interests in evolution of jumping spiders."
+#bio: "My research interests in evolution of jumping spiders."
 
-#interests:
-#  - "Evolution"
-#  - "Taxonomy"
+# interests:
+#   - "Biodiversity"
 
-#education:
-#  courses:
-#    - course: "Ph.D in Zoology"
-#      institution: "Hebei University"
-#      year: 2025
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'yunjie.zhang_2024@qq.com'
 
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'malito:jxzhang1976@163.com'
-
-#email: 'jxzhang1976@163.com'
+email: 'yunjie.zhang_2024@qq.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 
+Yunjie's doctoral research is on the taxonomy, phylogeny, and species delimitation of the Nemesiidae in China. His master's research focused on the taxonomy and morphology of the giant moth (Saturniidae) larvae.

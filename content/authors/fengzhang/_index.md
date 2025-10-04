@@ -35,7 +35,7 @@ authors:
 
 superuser: false
 
-role: "Principal Investigators"
+role: "Professor"
 
 organizations:
   - name: "Hebei University"
@@ -55,7 +55,7 @@ social:
 email: 'dudu06042001@163.com'
 
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 
 ---
 

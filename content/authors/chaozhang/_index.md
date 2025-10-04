@@ -61,7 +61,7 @@ organizations:
 #email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Researcher
+  - Researchers
 
 ---
 

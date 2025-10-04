@@ -35,36 +35,44 @@ authors:
 
 superuser: false
 
-role: "Professor (full)"
+role: "Professor"
 
 organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research interests in evolution of jumping spiders."
+#bio: "My research interests in evolution of jumping spiders."
 
 interests:
   - "Evolution"
-  - "Taxonomy"
+  - "Phylogenomics"
+  - "Biogeography"
+  - "Systematics"
 
 education:
   courses:
+    - course: "PhD in Zoology"
+      institution: "University of British Columbia, Canada"
+      year: 2012
     - course: "MSc in Zoology"
       institution: "Hebei University"
-      year: 2025
-    - course: "BSc in Animal Science"
-      institution: "Hainan University"
-      year: 2022
+      year: 2002
+    - course: "BSc in Biological Education"
+      institution: "Hebei Normal University"
+      year: 1999
 
 social:
   - icon: envelope
     icon_pack: fas
     link: 'malito:jxzhang1976@163.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=kLv6IJsAAAAJ
 
 email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Researcher
+  - Researchers
 
 ---
 

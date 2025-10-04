@@ -26,4 +26,42 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+# first_name: "Aidie"
+# last_name: "Chen"
+
+# authors:
+#   - "Aidie Chen"
+
+# superuser: false
+
+# role: "Master student"
+
+# organizations:
+#   - name: "Hebei University"
+#     url: ''
+
+# #bio: "My research focuses on the comparative genomics."
+
+# interests:
+#   - "Evolution"
+#   - "Taxonomy"
+
+# education:
+#   courses:
+#     - course: "BSc in Life Science"
+#       institution: "Hebei University"
+#       year: 2023
+
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'malito:2512466425@qq.com'
+
+# email: '2512466425@qq.com'
+
+user_groups:
+  - Students
+
 ---
+

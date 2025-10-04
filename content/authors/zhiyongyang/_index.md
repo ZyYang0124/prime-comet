@@ -41,11 +41,12 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research interest is evolution biology."
+#bio: "My research interest is evolutionary biology."
 
 interests:
-  - "Evolution"
-  - "Taxonomy"
+  - "Evolutionary Biology"
+  - "Ethology"
+  - "Photography"
 
 education:
   courses:
@@ -60,15 +61,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zyyang0124@gmail.com'
-  - icon: twitter
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Zhiyong-Yang-22?ev=hdr_xprf
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://github.com/ZyYang0124
 
     
 email: 'zyyang0124@gmail.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 

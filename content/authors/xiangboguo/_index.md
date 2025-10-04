@@ -65,7 +65,7 @@ social:
 email: 'xiangboguo@126.com'
 
 user_groups:
-  - Researcher
+  - Researchers
 
 ---
 

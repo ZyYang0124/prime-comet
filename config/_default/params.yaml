@@ -30,8 +30,6 @@ marketing:
     baidu: ''
 
 # Site header
-
-# Site header
 header:
   navbar:
     enable: true
@@ -42,11 +40,10 @@ header:
     show_search: true
     highlight_active_link: true
     logo:
-      image: "media/logo.png"   # 图片路径（必须位于 /static/media/ 下）
-      text: "Arachnology Lab in HBU"  # 显示在 logo 右侧的标题
-      alt: "Arachnology Lab Logo"
-      width: 50px               # 控制显示大小
-
+      image: "media/logo.jpg"   # logo 文件放在 /static/media/
+      text: "Arachnology Lab in HBU"
+      alt: "HBU Arachnology Lab"
+      width: 36px               # 可以调整大小
 
 # Site footer
 
@@ -123,5 +120,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-
-

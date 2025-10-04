@@ -55,7 +55,7 @@ social:
 email: 'nyarlatis@qq.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 

@@ -36,7 +36,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Associate Professor"
 
 organizations:
   - name: "Hebei University"
@@ -62,6 +62,6 @@ organizations:
 #email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Researcher
+  - Researchers
 
 ---

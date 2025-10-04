@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
-title: "Jiaqiliang"
+weight: 130
+title: "梁佳琪 Jiaqi Liang"
 subtitle: ""
 summary: ""
 authors: []
@@ -26,4 +26,36 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+first_name: "Jiaqi"
+last_name: "Liang"
+
+authors:
+  - "Jiaqi Liang"
+
+superuser: false
+
+role: "Master Student"
+
+organizations:
+  - name: "Hebei University"
+    url: ''
+
+#bio: "My research interests in evolution of jumping spiders."
+
+# interests:
+#   - "Biodiversity"
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:2727405637@qq.com'
+
+email: '2727405637@qq.com'
+
+user_groups:
+  - Students
+
 ---
+
+My research focuses on the distribution and adaptability of Leptonetid spiders in parts of Inner Mongolia.

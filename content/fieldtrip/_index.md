@@ -10,6 +10,10 @@ banner:
   image: ''
 ---
 
+© Image copyright belongs to the original owner.
+
+---
+
 ## 2025.07 Guangdong, Guangxi, Guizhou
 
 Yi Ni, Kun Yu, Tao Li

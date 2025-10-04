@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 110
 title: "陈艾蝶 Aidie Chen"
 subtitle: ""
 summary: ""
@@ -41,7 +41,7 @@ organizations:
   - name: "Hebei University"
     url: ''
 
-bio: "My research focuses on the comparative genomics."
+#bio: "My research focuses on the comparative genomics."
 
 interests:
   - "Evolution"
@@ -61,7 +61,7 @@ social:
 email: '2512466425@qq.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 

@@ -26,4 +26,36 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+first_name: "Siqi"
+last_name: "Liu"
+
+authors:
+  - "Siqi Liu"
+
+superuser: false
+
+role: "Master Student"
+
+organizations:
+  - name: "Hebei University"
+    url: ''
+
+#bio: "My research interests in evolution of jumping spiders."
+
+interests:
+  - "Biodiversity"
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:lsq0802012024@163.com'
+
+email: 'lsq0802012024@163.com'
+
+user_groups:
+  - Students
+
 ---
+
+My research focuses on spider species diversity analysis and faunistic surveys, with the Saihanwula National Nature Reserve in Inner Mongolia as the study area.

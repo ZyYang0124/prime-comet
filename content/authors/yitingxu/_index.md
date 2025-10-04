@@ -26,4 +26,36 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+first_name: "Yiting"
+last_name: "Xu"
+
+authors:
+  - "Yiting Xu"
+
+superuser: false
+
+role: "Master Student"
+
+organizations:
+  - name: "Hebei University"
+    url: ''
+
+#bio: "My research interests in evolution of jumping spiders."
+
+interests:
+  - "Biodiversity"
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:xuyiting1002@163.com'
+
+email: 'xuyiting1002@163.com'
+
+user_groups:
+  - Students
+
 ---
+
+My research focuses on the systematic taxonomy of Amblypygi and Uropygi in China, and the biogeography of *Typopeltis niger*.

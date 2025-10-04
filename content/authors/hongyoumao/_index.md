@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
-title: "Hongyoumao"
+weight: 160
+title: "毛泓佑 Hongyou Mao"
 subtitle: ""
 summary: ""
 authors: []
@@ -26,4 +26,37 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+first_name: "Hongyou"
+last_name: "Mao"
+
+authors:
+  - "Hongyou Mao"
+
+superuser: false
+
+role: "Master Student"
+
+organizations:
+  - name: "Hebei University"
+    url: ''
+
+#bio: "My research interests in evolution of jumping spiders."
+
+# interests:
+#   - "Biodiversity"
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'hym0715michelle@gmail.com'
+
+email: 'hym0715michelle@gmail.com'
+
+user_groups:
+  - Students
+
 ---
+
+My research focuses on the systematic classification of Scolopendromorpha in Cretaceous Burmese amber.
+

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 weight: 20
-title: "翟智勇 Zhiyong Di"
+title: "邸智勇 Zhiyong Di"
 subtitle: ""
 summary: ""
 authors: []
@@ -36,7 +36,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Associate Professor"
 
 organizations:
   - name: "Hebei University"
@@ -62,7 +62,7 @@ organizations:
 #email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Researcher
+  - Researchers
 
 ---
 

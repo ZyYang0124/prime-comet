@@ -61,7 +61,7 @@ social:
 email: 'kunyuspider1996@gmail.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 

@@ -61,7 +61,7 @@ social:
 email: 'zhb1050@gmail.com'
 
 user_groups:
-  - Student
+  - Students
 
 ---
 

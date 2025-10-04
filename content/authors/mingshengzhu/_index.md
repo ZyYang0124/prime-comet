@@ -45,7 +45,7 @@ organizations:
 bio: "His research interests in taxonomy of Arachnida."
 
 user_groups:
-  - Founder
+  - Founders
 
 ---
 

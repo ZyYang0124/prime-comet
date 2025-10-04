@@ -21,8 +21,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '38.8692'
-        longitude: '115.5093'
+        latitude: '38.8712'
+        longitude: '115.5099'
       directions: 2nd floor of the Zoology Building, Hebei University
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
