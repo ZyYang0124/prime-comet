@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 20
 title: "朱明生 Mingsheng Zhu"
 subtitle: ""
 summary: ""

@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 50
 title: "郭向博 Xiangbo Guo"
 subtitle: ""
 summary: ""

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 weight: 20
-title: "张云杰 Yunjie Zhang"
+title: "翟智勇 Zhiyong Di"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-22T10:08:02+08:00
-lastmod: 2025-09-22T10:08:02+08:00
+date: 2025-10-04T13:11:45+08:00
+lastmod: 2025-10-04T13:11:45+08:00
 featured: false
 draft: false
 
@@ -28,15 +28,15 @@ image:
 projects: []
 
 
-first_name: "Yunjie"
-last_name: "Zhang"
+first_name: "Zhiyong"
+last_name: "Di"
 
 authors:
-  - "Yunjie Zhang"
+  - "Zhiyong Di"
 
 superuser: false
 
-role: "Ph.D Student"
+role: "Professor"
 
 organizations:
   - name: "Hebei University"
@@ -62,7 +62,7 @@ organizations:
 #email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Student
+  - Researcher
 
 ---
 

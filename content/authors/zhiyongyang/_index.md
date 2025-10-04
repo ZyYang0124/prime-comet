@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 30
 title: "杨智勇 Zhiyong Yang"
 subtitle: ""
 summary: ""

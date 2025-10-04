@@ -15,8 +15,8 @@ sections:
           - Principal Investigators 
           - Researcher
           - Student
-          - Alumni
-      sort_by: Params.last_name
+          - Graduated students
+      sort_by: weight
       sort_ascending: true
     design:
       show_interests: false

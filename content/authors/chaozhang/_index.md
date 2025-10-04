@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-weight: 20
-title: "张云杰 Yunjie Zhang"
+weight: 10
+title: "张超 Chao Zhang"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-22T10:08:02+08:00
-lastmod: 2025-09-22T10:08:02+08:00
+date: 2025-10-04T13:11:54+08:00
+lastmod: 2025-10-04T13:11:54+08:00
 featured: false
 draft: false
 
@@ -27,16 +27,15 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-
-first_name: "Yunjie"
+first_name: "Chao"
 last_name: "Zhang"
 
 authors:
-  - "Yunjie Zhang"
+  - "Chao Zhang"
 
 superuser: false
 
-role: "Ph.D Student"
+role: "Professor"
 
 organizations:
   - name: "Hebei University"
@@ -62,7 +61,7 @@ organizations:
 #email: 'jxzhang1976@163.com'
 
 user_groups:
-  - Student
+  - Researcher
 
 ---
 

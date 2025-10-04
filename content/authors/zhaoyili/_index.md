@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 60
 title: "李招毅 Zhaoyi Li"
 subtitle: ""
 summary: ""

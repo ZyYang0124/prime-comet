@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 40
 title: "倪义 Yi Ni"
 subtitle: ""
 summary: ""
@@ -50,9 +50,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zyyang0124@gmail.com'
+    link: 'mailto:nyarlatis@qq.com'
 
-email: ''
+email: 'nyarlatis@qq.com'
 
 user_groups:
   - Student

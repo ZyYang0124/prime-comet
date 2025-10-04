@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 10
 title: "余锟 Kun Yu"
 subtitle: ""
 summary: ""
@@ -35,7 +35,7 @@ authors:
 
 superuser: false
 
-role: "Ph.D. student"
+role: "Ph.D student"
 
 organizations:
   - name: "Hebei University"

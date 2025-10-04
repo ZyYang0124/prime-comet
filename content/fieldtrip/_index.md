@@ -64,7 +64,7 @@ Yi Ni, Kun Yu, Tao Li
 ---
 
 ## 2025.07 Xizang
-Haibin Zhang (Tabetan), Yunjie Zhang, Jiaxian Gong
+Haibin Zhang (Tibetan), Yunjie Zhang, Jiaxian Gong
 
 <style>
 .gallery {

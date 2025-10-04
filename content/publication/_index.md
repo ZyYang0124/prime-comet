@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Publication"
+title: "Publications"
 subtitle: ""
 summary: ""
 authors: []
@@ -11,6 +11,8 @@ date: 2025-09-23T14:28:55+08:00
 lastmod: 2025-09-23T14:28:55+08:00
 featured: false
 draft: false
+
+type: page
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,9 +27,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
----
+#projects: []
 
+search: false
+filter: false
+
+---
 
 <!--Chicago Manual of Style 18th edition (author-date)-->
 

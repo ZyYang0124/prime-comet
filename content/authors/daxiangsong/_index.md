@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 10
 title: "宋大祥 Daxiang Song"
 subtitle: ""
 summary: ""
@@ -36,7 +36,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Professor (1935-2008)"
 
 organizations:
   - name: "Hebei University"

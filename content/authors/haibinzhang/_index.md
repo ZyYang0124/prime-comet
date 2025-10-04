@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 50
 title: "张海滨 གནའ་བ།"
 subtitle: ""
 summary: ""
@@ -65,4 +65,4 @@ user_groups:
 
 ---
 
-Haibin's master's project focuses on the taxonomy of the Chinese subfamily Gnaphosinae (Gnaphosidae), with a particular interest in the spider diversity of Xizang.
+My project focuses on the taxonomy of the Chinese subfamily Gnaphosinae (Gnaphosidae), with a particular interest in the spider diversity of Xizang.

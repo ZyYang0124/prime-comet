@@ -31,6 +31,7 @@ marketing:
 
 # Site header
 
+# Site header
 header:
   navbar:
     enable: true
@@ -39,7 +40,13 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
+    logo:
+      image: "media/logo.png"   # 图片路径（必须位于 /static/media/ 下）
+      text: "Arachnology Lab in HBU"  # 显示在 logo 右侧的标题
+      alt: "Arachnology Lab Logo"
+      width: 50px               # 控制显示大小
+
 
 # Site footer
 
@@ -72,7 +79,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ZyYang0124/prime-comet'
     content_dir: content
     branch: main
   avatar:
@@ -116,3 +123,5 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+

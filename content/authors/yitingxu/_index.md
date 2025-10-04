@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-weight: 20
-title: "张云杰 Yunjie Zhang"
+weight: 80
+title: "徐艺婷 Yiting Xu"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-22T10:08:02+08:00
-lastmod: 2025-09-22T10:08:02+08:00
+date: 2025-10-04T13:12:24+08:00
+lastmod: 2025-10-04T13:12:24+08:00
 featured: false
 draft: false
 
@@ -26,43 +26,4 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-
-first_name: "Yunjie"
-last_name: "Zhang"
-
-authors:
-  - "Yunjie Zhang"
-
-superuser: false
-
-role: "Ph.D Student"
-
-organizations:
-  - name: "Hebei University"
-    url: ''
-
-# bio: "My research interests in evolution of jumping spiders."
-
-#interests:
-#  - "Evolution"
-#  - "Taxonomy"
-
-#education:
-#  courses:
-#    - course: "Ph.D in Zoology"
-#      institution: "Hebei University"
-#      year: 2025
-
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'malito:jxzhang1976@163.com'
-
-#email: 'jxzhang1976@163.com'
-
-user_groups:
-  - Student
-
 ---
-
