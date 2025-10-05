@@ -40,10 +40,10 @@ header:
     show_search: true
     highlight_active_link: true
     logo:
-      image: "media/logo.jpg"   # logo 文件放在 /static/media/
+      image: "media/logo1.png"   # logo 文件放在 /static/media/
       text: "Arachnology Lab in HBU"
       alt: "HBU Arachnology Lab"
-      width: 36px               # 可以调整大小
+      width: "36px"               # 可以调整大小
 
 # Site footer
 

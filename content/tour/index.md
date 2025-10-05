@@ -20,7 +20,7 @@ sections:
         align: left
         background:
           image:
-            filename: PPJ6936_1.jpg
+            filename: jp.jpg
             filters:
               brightness: 0.7
           position: right

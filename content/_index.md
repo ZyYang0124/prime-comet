@@ -20,8 +20,8 @@ sections:
   
   - block: collection
     content:
-      title: Biodiversity and Systematics
-      subtitle:
+      title: Mapping Arachnid Diversity
+      subtitle: Systematics Across Deep Time
       text: |
         <p><b>Biodiversity forms the foundation of processes that sustain all life on Earth. </b> Accurate description and classification are critical to understanding this diversity.</p>
 
@@ -40,7 +40,7 @@ sections:
 
         <p>Through integrative approaches—including field expeditions, morphological analyses, and molecular phylogenetics—we aim to discover new species, refine classification systems, and contribute to global biodiversity conservation strategies.</p>
 
-        <a href="/Tour/#Spider"><Strong>Learn more</Strong></a>
+        <Strong><a href="/Tour/#Spider">Learn more</a></Strong>
 
       count: 5
       filters:

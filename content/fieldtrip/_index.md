@@ -116,7 +116,7 @@ Haibin Zhang (Tibetan), Yunjie Zhang, Jiaxian Gong
 ---
 
 ## 2025.05 Hongkong
-Junxia Zhang, Xiangbo Guo, Yi Ni, Kun Yu, Zhiyong Yang, Desmond Tan, Jon
+Junxia Zhang, Xiangbo Guo, Yi Ni, Kun Yu, Zhiyong Yang, Desmond Tan, Jonathan Fong
 <style>
 .gallery {
   display: flex;

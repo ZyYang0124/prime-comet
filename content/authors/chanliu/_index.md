@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 weight: 60
-title: "刘畅 Chan Liu"
+title: "刘畅 Chang Liu"
 subtitle: ""
 summary: ""
 authors: []
@@ -35,7 +35,7 @@ projects: []
 
 # superuser: false
 
-# role: "Master student"
+role: "Master student"
 
 # organizations:
 #   - name: "Hebei University"
