@@ -40,7 +40,7 @@ sections:
 
         <p>Through integrative approaches—including field expeditions, morphological analyses, and molecular phylogenetics—we aim to discover new species, refine classification systems, and contribute to global biodiversity conservation strategies.</p>
 
-        <Strong><a href="/Tour/#Spider">Learn more</a></Strong>
+        <Strong><a href="/tour/#Spider">Learn more</a></Strong>
 
       count: 5
       filters:
