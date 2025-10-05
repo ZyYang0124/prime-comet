@@ -15,8 +15,9 @@ sections:
       text: |
         <br>
         
-        Our lab is dedicated to the **integrative study of Arachnida**.     
-        We combine approaches from morphological taxonomy, molecular phylogenetics, trait evolution, and comparative genomics to unravel the diversity, evolutionary history, and adaptive innovations of arachnids.
+        Our lab is dedicated to the **integrative study of Arachnida**. We combine approaches from morphological taxonomy, molecular phylogenetics, trait evolution, and comparative genomics to unravel the diversity, evolutionary history, and adaptive innovations of arachnids.
+      title_size: large
+      text_size: medium
   
   - block: collection
     content:
@@ -118,7 +119,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: unlocking.png
+          filename: unl.png
           filters:
             brightness: 1
           parallax: false

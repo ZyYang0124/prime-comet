@@ -44,25 +44,35 @@ organizations:
 
 # bio: "My research interests in evolution of jumping spiders."
 
-#interests:
-#  - "Evolution"
-#  - "Taxonomy"
+interests:
+  - "Evolution"
+  - "Taxonomy"
 
-#education:
-#  courses:
-#    - course: "Ph.D in Zoology"
-#      institution: "Hebei University"
-#      year: 2025
+education:
+  courses:
+    - course: "Ph.D in Zoology"
+      institution: "Wuhan University"
+      year: 2013
+  courses:
+    - course: "MSc in Zoology, 2009"
+      institution: "Hebei University"
+      year: 2009
+  courses:
+    - course: "BSc in Biological Education"
+      institution: "Tangshan Normal University"
+      year: 2006
 
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'malito:jxzhang1976@163.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'malito:zydilab@hbu.edu.cn'
 
-#email: 'jxzhang1976@163.com'
+email: 'zydilab@hbu.edu.cn'
 
 user_groups:
   - Researchers
 
 ---
+
+Dr. Di is interested in the diversity and evolution of arachnids, especially scorpions. His research subjects also include ancient creatures and animal toxins.
 
