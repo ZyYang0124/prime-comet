@@ -53,7 +53,7 @@ education:
     - course: "MSc in Zoology"
       institution: "Hebei University"
       year: 2025
-    - course: "BSc in Animal Science"
+    - course: "BAg in Animal Science"
       institution: "Hainan University"
       year: 2022
 

@@ -51,6 +51,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nyarlatis@qq.com'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yi-Ni-7
 
 email: 'nyarlatis@qq.com'
 
