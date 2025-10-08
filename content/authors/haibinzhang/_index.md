@@ -51,7 +51,7 @@ education:
   courses:
     - course: "BSc in Plant Science"
       institution: "Xizang University"
-      year: 2023
+      year: 2020
 
 social:
   - icon: envelope

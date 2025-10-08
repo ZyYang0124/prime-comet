@@ -14,8 +14,56 @@ banner:
 
 ---
 
-## 2025.07 Guangdong, Guangxi, Guizhou
+## 2025.08 East part of Inner Mongolia
+Chang Liu, Zimai Ma
 
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.gallery img {
+  width: calc(33.333% - 12px);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+@media (max-width: 768px) {
+  .gallery img {
+    width: calc(50% - 12px);
+  }
+}
+@media (max-width: 500px) {
+  .gallery img {
+    width: 100%;
+  }
+}
+.gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
+
+<div class="gallery">
+  <img src="/images/fieldtrip/2025-innermongolia/1.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/2.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/3.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/4.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/5.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/6.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/7.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/8.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/9.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/10.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/11.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2025-innermongolia/12.jpg" alt="yn 1">
+</div>
+
+---
+
+## 2025.07 Guangdong, Guangxi, Guizhou
 Yi Ni, Kun Yu, Tao Li
 
 <style>
@@ -115,6 +163,61 @@ Haibin Zhang (Tibetan), Yunjie Zhang, Jiaxian Gong
 
 ---
 
+## 2025.05 Gansu, Qinghai, Xinjiang
+Chang Liu Haibin Zhang, Wenlong Fan
+
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.gallery img {
+  width: calc(33.333% - 12px);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+@media (max-width: 768px) {
+  .gallery img {
+    width: calc(50% - 12px);
+  }
+}
+@media (max-width: 500px) {
+  .gallery img {
+    width: 100%;
+  }
+}
+.gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
+
+<div class="gallery">
+  <img src="/images/fieldtrip/2025-xinjiang/1.jpg" alt="hk 1">
+  <img src="/images/fieldtrip/2025-xinjiang/2.jpg" alt="hk 2">
+  <img src="/images/fieldtrip/2025-xinjiang/3.jpg" alt="hk 3">
+  <img src="/images/fieldtrip/2025-xinjiang/4.jpg" alt="hk 4">
+  <img src="/images/fieldtrip/2025-xinjiang/5.jpg" alt="hk 5">
+  <img src="/images/fieldtrip/2025-xinjiang/6.jpg" alt="hk 6">
+  <img src="/images/fieldtrip/2025-xinjiang/7.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2025-xinjiang/8.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2025-xinjiang/9.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2025-xinjiang/10.jpg" alt="hk 8">
+  <img src="/images/fieldtrip/2025-xinjiang/11.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2025-xinjiang/12.jpg" alt="hk 5">
+  <img src="/images/fieldtrip/2025-xinjiang/13.jpg" alt="hk 6">
+  <img src="/images/fieldtrip/2025-xinjiang/14.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2025-xinjiang/15.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2025-xinjiang/16.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2025-xinjiang/17.jpg" alt="hk 8">
+  <img src="/images/fieldtrip/2025-xinjiang/18.jpg" alt="hk 9">
+</div>
+
+---
+
 ## 2025.05 Hongkong
 Junxia Zhang, Xiangbo Guo, Yi Ni, Kun Yu, Zhiyong Yang, Desmond Tan, Jonathan Fong
 <style>
@@ -156,6 +259,61 @@ Junxia Zhang, Xiangbo Guo, Yi Ni, Kun Yu, Zhiyong Yang, Desmond Tan, Jonathan Fo
   <img src="/images/fieldtrip/2025-hk/7.jpg" alt="hk 7">
   <img src="/images/fieldtrip/2025-hk/8.jpg" alt="hk 8">
   <img src="/images/fieldtrip/2025-hk/9.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2025-hk/10.jpg" alt="hk 5">
+  <img src="/images/fieldtrip/2025-hk/11.jpg" alt="hk 6">
+  <img src="/images/fieldtrip/2025-hk/12.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2025-hk/13.jpg" alt="hk 8">
+  <img src="/images/fieldtrip/2025-hk/14.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2025-hk/15.jpg" alt="hk 9">
+</div>
+
+---
+
+## 2024.11 Yunan: Nangun River Nature Reserve
+Xiangbo Guo, Chang Liu
+
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.gallery img {
+  width: calc(33.333% - 12px);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+@media (max-width: 768px) {
+  .gallery img {
+    width: calc(50% - 12px);
+  }
+}
+@media (max-width: 500px) {
+  .gallery img {
+    width: 100%;
+  }
+}
+.gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
+
+<div class="gallery">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/1.jpg" alt="hk 1">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/2.jpg" alt="hk 2">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/3.jpg" alt="hk 3">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/4.jpg" alt="hk 4">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/5.jpg" alt="hk 5">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/6.jpg" alt="hk 6">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/7.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/8.jpg" alt="hk 8">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/9.jpg" alt="hk 9">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/10.jpg" alt="hk 7">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/11.jpg" alt="hk 8">
+  <img src="/images/fieldtrip/2024-yunnan-nangunhe/12.jpg" alt="hk 9">
 </div>
 
 ---
@@ -251,6 +409,53 @@ Kun Yu, Haibin Zhang (Tibetan), Yunjie Zhang
   <img src="/images/fieldtrip/2024-xizang/7.jpg" alt="yn 1">
   <img src="/images/fieldtrip/2024-xizang/8.jpg" alt="yn 1">
   <img src="/images/fieldtrip/2024-xizang/9.jpg" alt="yn 1">
+</div>
+
+---
+
+## 2024.07 Guangxi, Yunnan
+Chang Liu, Jiaxian Gong, Tao Zheng, Yiting Xu
+
+
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.gallery img {
+  width: calc(33.333% - 12px);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+@media (max-width: 768px) {
+  .gallery img {
+    width: calc(50% - 12px);
+  }
+}
+@media (max-width: 500px) {
+  .gallery img {
+    width: 100%;
+  }
+}
+.gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
+
+<div class="gallery">
+  <img src="/images/fieldtrip/2024-guangxi/1.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/2.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/3.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/4.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/5.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/6.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/7.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/8.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2024-guangxi/9.jpg" alt="yn 1">
 </div>
 
 ---
@@ -705,6 +910,53 @@ Zhiyong Yang, Qianle Lu, Luyu Wang
   <img src="/images/fieldtrip/2023-guangxi/4.jpg" alt="yn 1">
   <img src="/images/fieldtrip/2023-guangxi/5.jpg" alt="yn 1">
   <img src="/images/fieldtrip/2023-guangxi/6.jpg" alt="yn 1">
+</div>
+
+---
+
+## 2025.05 Xinjiang
+Bo Liu, Chang Liu, Wenlong Fan
+
+
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+.gallery img {
+  width: calc(33.333% - 12px);
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+@media (max-width: 768px) {
+  .gallery img {
+    width: calc(50% - 12px);
+  }
+}
+@media (max-width: 500px) {
+  .gallery img {
+    width: 100%;
+  }
+}
+.gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
+
+<div class="gallery">
+  <img src="/images/fieldtrip/2023-xinjiang/1.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/2.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/3.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/4.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/5.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/6.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/7.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/8.jpg" alt="yn 1">
+  <img src="/images/fieldtrip/2023-xinjiang/9.jpg" alt="yn 1">
 </div>
 
 ---
