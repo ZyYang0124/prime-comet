@@ -1,6 +1,6 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-
+weight: 60
 title: "刘畅 Chang Liu"
 subtitle: ""
 summary: ""
