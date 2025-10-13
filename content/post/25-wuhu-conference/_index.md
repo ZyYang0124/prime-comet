@@ -45,7 +45,7 @@ During the oral presentation session, postdoctoral researcher Zhaoyi Li, doctora
 
 ![](/images/2025-wuhu/3.jpg)
 
-Thanks to their solid research and excellent presentation skills, members of the Hebei University team achieved remarkable success: **Yi Ni won the Outstanding Oral Presentation Award (Special Prize)**; **Zhiyong Yang and Wenlong Fan received First Prizes**; and **Zhaoyi Li, Yiting Xu, and Siqi Liu were awarded Second Prizes**. Additionally, Yang Zhiyong’s poster presentation was recognized with the Second Prizes. This represents one of the best performances by the laboratory at the national arachnology symposium to date, highlighting its excellence in talent development and scientific innovation.
+Thanks to their solid research and excellent presentation skills, members of the Hebei University team achieved remarkable success: **Yi Ni won the Outstanding Oral Presentation Award (Special Prize)**; **Zhiyong Yang and Wenlong Fan received First Prizes**; and **Zhaoyi Li, Yiting Xu, and Siqi Liu were awarded Second Prizes**. Additionally, Zhiyong’s poster presentation was recognized with the Second Prizes. This represents one of the best performances by the laboratory at the national arachnology symposium to date, highlighting its excellence in talent development and scientific innovation.
 
 ![](/images/2025-wuhu/4.jpg)
 

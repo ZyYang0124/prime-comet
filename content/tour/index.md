@@ -35,16 +35,16 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: 原蛛
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: _PPJ7425-1.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+      # - title: 原蛛
+      #   content: Take a look at what we're working on...
+      #   align: center
+      #   background:
+      #     image:
+      #       filename: _PPJ7425-1.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: right
+      #     color: '#666'
       - title:
         id: weixie
         content: Take a look at what we're working on...
