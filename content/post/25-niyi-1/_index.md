@@ -31,8 +31,6 @@ projects: []
 
 On five new species of the genus *Synagelides* Strand, 1906 (Araneae: Salticidae: Salticinae: Agoriini) from China
 
----
-
 <!--more-->
 
 Five new species of Synagelides Strand, 1906 from China are described: *S. numu* sp. nov. (♂♀) and *S. xiangyun* sp. nov. from Hunan Province, *S. lovecrafti* sp. nov. (♂♀) from Yunnan Province, *S. qin* sp. nov. (♂♀) from Gansu Province and *S. shimian* sp. nov. (♂♀) from Sichuan Province. Diagnostic illustrations and photographs, as well as a distributional 

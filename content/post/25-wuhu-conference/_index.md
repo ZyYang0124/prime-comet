@@ -31,8 +31,6 @@ projects: []
 
 HBUARA Lab achieved a historic breakthrough at the 18th Chinese Arachnology Symposium.
 
----
-
 <!--more-->
 
 The 18th Chinese Society of Zoological Arachnology Symposium was successfully held from October 11 to 12, 2025, at Anhui Normal University in Wuhu, Anhui Province. Hosted by the Arachnology Committee of the Chinese Society of Zoological, the conference brought together over one hundred experts, scholars, and researchers from universities and research institutions across China. The event featured in-depth discussions on cutting-edge topics in arachnology, including taxonomy, systematics, ecological behavior, neurobiology, and acarology.
