@@ -2,9 +2,9 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Mystery Solved: Genomic Data Reveals New Genus of Jumping Spiders"
-subtitle: ""
-summary: ""
-authors: []
+subtitle: "https://doi.org/10.1071/IS25033"
+summary: "A breakthrough phylogenomic study has deciphered a long-standing enigma within the highly diverse jumping spiders (Salticidae). The paper titled “Phylogenomic placement of a new genus and species of jumping spiders (Araneae: Salticidae: Spartaeini) based on UCE data” has recently been published in the journal Invertebrate Systematics."
+authors: [Yi Ni, Kun Yu, Junxia Zhang]
 tags: []
 categories: []
 date: 2025-09-03T14:47:45+08:00
@@ -28,8 +28,6 @@ image:
 projects: []
 
 ---
-
-A breakthrough phylogenomic study has deciphered a long-standing enigma within the highly diverse jumping spiders (Salticidae). The paper titled “Phylogenomic placement of a new genus and species of jumping spiders (Araneae: Salticidae: Spartaeini) based on UCE data” has recently been published in the journal Invertebrate Systematics.
 
 <!--more-->
 

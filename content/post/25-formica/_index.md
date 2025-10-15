@@ -2,9 +2,9 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Navigating the Genomic Flood: Research Provides Insights for Large-Scale Phylogeny with WGS Data"
-subtitle: ""
-summary: ""
-authors: []
+subtitle: "https://doi.org/10.1111/syen.12670"
+summary: "Our laboratory, in collaboration with researchers from the University of California, Riverside, recently published the paper titled “A comparison of phylogenomic inference pipelines for low-coverage whole-genome sequencing in *Formica* ants” in the prestigious journal Systematic Entomology."
+authors: [Junxia Zhang, Long Lin,  Yannan Mu, Alan Brelsford, Jessica Purcell]
 tags: []
 categories: []
 date: 2025-05-10T14:47:45+08:00
@@ -28,8 +28,6 @@ image:
 projects: []
 
 ---
-
-Our laboratory, in collaboration with researchers from the University of California, Riverside, recently published the paper titled “A comparison of phylogenomic inference pipelines for low-coverage whole-genome sequencing in *Formica* ants” in the prestigious journal Systematic Entomology.
 
 <!--more-->
 

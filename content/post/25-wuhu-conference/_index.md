@@ -3,8 +3,8 @@
 
 title: "HBUARA Team Shines at 18th Chinese Arachnology Symposium"
 subtitle: ""
-summary: ""
-authors: []
+summary: "Our Lab achieved a historic breakthrough at the 18th Chinese Arachnology Symposium."
+authors: [Zhiyong Yang]
 tags: []
 categories: []
 date: 2025-10-13T14:47:45+08:00
@@ -28,8 +28,6 @@ image:
 projects: []
 
 ---
-
-HBUARA Lab achieved a historic breakthrough at the 18th Chinese Arachnology Symposium.
 
 <!--more-->
 
