@@ -30,7 +30,7 @@ sections:
         <div align="left">
         
         ### 2025
-        范文龙 Wenlong Fan, 孙建州 Jianzhou Sun, 赵佳琦 Jiaqi Zhao, 林珑 Long Lin, 石宋涛 Songtao Shi, 郑涛 Tao Zheng, 白新猿 Xinyuan Bai, 齐肖如 Xiaoru Qi, 杨智勇 Zhiyong Yang, 李招毅 Zhaoyi Li, 郝龙 Long Hao, 王铭毅 Mingyi Wang
+        范文龙 Wenlong Fan, 孙建州 Jianzhou Sun, 赵佳琦 Jiaqi Zhao, 林珑 Long Lin, 石宋涛 Songtao Shi, 郑涛 Tao Zheng, 白新辕 Xinyuan Bai, 齐肖如 Xiaoru Qi, 杨智勇 Zhiyong Yang, 李招毅 Zhaoyi Li, 郝龙 Long Hao, 王铭毅 Mingyi Wang
 
         </div>
 
