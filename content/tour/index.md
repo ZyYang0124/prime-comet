@@ -25,16 +25,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: RTA
-        content: 'A wonderful life journey!'
-        align: right
-        background:
-          image:
-            filename: rta.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+      # - title: RTA
+      #   content: ''
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: rta.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
       # - title: 原蛛
       #   content: Take a look at what we're working on...
       #   align: center
@@ -45,9 +45,9 @@ sections:
       #         brightness: 0.7
       #     position: right
       #     color: '#666'
-      - title:
+      - title: Pseudoscorpiones
         id: weixie
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -56,9 +56,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the group
+      - title: Solifugae
         id: biri
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -67,9 +67,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 盲蛛
+      - title: Opiliones
         id: mangzhu
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -78,9 +78,9 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Scorpiones
         id: xiezi
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content:
         align: left
         background:
           image:
@@ -89,9 +89,9 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Explore Everything About Spiders
+      - title: Uropygi
         id: bianxie
-        content: 'A wonderful life journey!'
+        content: ''
         align: right
         background:
           image:
@@ -100,9 +100,9 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Explore Everything About Spiders
+      - title: Amblypygi
         id: bianzhu
-        content: 'A wonderful life journey!'
+        content: ''
         align: right
         background:
           image:
@@ -111,9 +111,9 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Explore Everything About Spiders
+      - title: Schizomida
         id: liedun
-        content: 'A wonderful life journey!'
+        content: ''
         align: right
         background:
           image:
