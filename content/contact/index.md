@@ -12,7 +12,7 @@ sections:
         Passionate about arachnids and evolution? We welcome motivated students and researchers to join our lab. Background in biology, taxonomy, genomics, or related fields is great — curiosity and enthusiasm are essential.
 
         Reach out to explore research opportunities!
-      email: dudu06042001@163.com
+      # email: dudu06042001@163.com
       address:
         street: 180 Wusi East Road
         city: Baoding
@@ -57,7 +57,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: mygalomorphae.jpg
+          filename: cat.jpg
           filters:
             brightness: 1
           parallax: false

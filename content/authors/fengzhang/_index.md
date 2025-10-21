@@ -43,16 +43,16 @@ organizations:
 
 bio: "My research focuses on the taxonomy, phylogeny, and speciation of arachnids."
 
-interests:
-  - "Evolution"
-  - "Taxonomy"
+# interests:
+#   - "Evolution"
+#   - "Taxonomy"
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:dudu06042001@163.com'
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:dudu06042001@163.com'
 
-email: 'dudu06042001@163.com'
+# email: 'dudu06042001@163.com'
 
 user_groups:
   - Principal Investigator
