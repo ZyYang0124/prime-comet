@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-23T14:28:55+08:00
-lastmod: 2025-09-23T14:28:55+08:00
+date: 2026-01-15T14:28:55+08:00
+lastmod: 2026-01-15T14:28:55+08:00
 featured: false
 draft: false
 
@@ -36,9 +36,16 @@ filter: false
 
 <!--Chicago Manual of Style 18th edition (author-date)-->
 
-### 2025
 
-- **Xu, Yiting**, **Kun Yu**, Shuyuan Zhang, Anru Zuo, and **Feng Zhang**. 2025. Description of a Second Species of *Sarax* Simon, 1892 (Amblypygi, Charinidae) from China. Zootaxa 5666 (4): 489–508. 
+### 2026
+- **Xu, Yiting**, Jiaxian Gong, **Xiangbo Guo**, and **Feng Zhang**. 2026. “A new species of the genus *Sarax* Simon, 1892 (Amblypygi, Charinidae) from China.” Zootaxa 5748 (3): 429–438. doi:10.11646/zootaxa.5748.3.8
+
+---
+
+### 2025
+- **Zhan, Nana**, **Feng Zhang**, **Zegang Feng**, and **Xiangbo Guo**. 2025. “Integrative taxonomy of *Bisetocreagris* pseudoscorpions 
+(Pseudoscorpiones: Neobisiidae) from Hainan Island, China.” Insect Systematics and Diversity, 2025, 9(6), ixaf055. doi:10.1093/isd/ixaf055
+- **Xu, Yiting**, **Kun Yu**, Shuyuan Zhang, Anru Zuo, and **Feng Zhang**. 2025. “Description of a Second Species of *Sarax* Simon, 1892 (Amblypygi, Charinidae) from China.” Zootaxa 5666 (4): 489–508. 
 - **Ni, Yi**, **Yijing Li**, and **Junxia Zhang**. 2025. “On Five New Species of the Genus *Synagelides* Strand, 1906 (Araneae: Salticidae: Salticinae: Agoriini) from China.” Zootaxa 5666 (2): 239–261. 
 - **Zhang, Haibin**, **Kun Yu**, Anru Zuo, and **Feng Zhang**. 2025. “Description of a New Genus, *Septsigilla* Gen. Nov., with Two New Species from China (Araneae: Miturgidae: Systariinae).” Zootaxa 5666 (1): 125–135. 
 - **Zheng, Tao**, Keliang Wu, and **Feng Zhang**. 2025. “First Record of the Subfamily Megaschizominae Rowland, 1973 from China, with Description of a New Species of *Megaschizomus* Lawrence, 1969 (Schizomida: Hubbardiidae).” Zootaxa 5661 (1): 80–94. 
