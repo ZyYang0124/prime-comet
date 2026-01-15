@@ -39,7 +39,7 @@ sections:
         <div align="left">
 
         ### 2024
-        张瑞 Rui Zhang, 余锟 Kun Yu, 王哈姆 Weihang Wang, 刘博 Bo Liu, 占娜娜 Nana Zhan, 许梦蛟 Mengjiao Xu, 张文强 Wenqiang Zhang, 冯泽刚 Zegang Feng
+        张瑞 Rui Zhang, 余锟 Kun Yu, 王哈姆 Weihang Wang, 刘博 Bo Liu, 占娜娜 Nana Zhan, 许梦姣 Mengjiao Xu, 张文强 Wenqiang Zhang, 冯泽刚 Zegang Feng
 
         </div>
 
