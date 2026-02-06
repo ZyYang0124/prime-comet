@@ -27,16 +27,16 @@ sections:
     content:
       title: Graduated students
       text: |
-        <div align="left">
-        ### 2025
-
-        李招毅 Zhaoyi Li (博士), 范文龙 Wenlong Fan, 孙建州 Jianzhou Sun, 赵佳琦 Jiaqi Zhao, 林珑 Long Lin, 石宋涛 Songtao Shi, 郑涛 Tao Zheng, 白新辕 Xinyuan Bai, 齐肖如 Xiaoru Qi, 杨智勇 Zhiyong Yang, 郝龙 Long Hao, 王铭毅 Mingyi Wang (联培)
         
+        ### 2025
+        <div align="left">
+        李招毅 Zhaoyi Li (博士), 范文龙 Wenlong Fan, 孙建州 Jianzhou Sun, 赵佳琦 Jiaqi Zhao, 林珑 Long Lin, 石宋涛 Songtao Shi, 郑涛 Tao Zheng, 白新辕 Xinyuan Bai, 齐肖如 Xiaoru Qi, 杨智勇 Zhiyong Yang, 郝龙 Long Hao, 王铭毅 Mingyi Wang (联培)
+
         </div>
         <br>
 
-        <div align="left">
         ### 2024
+        <div align="left">
         冯泽刚 Zegang Feng (联培博士), 梁雅迪 Yadi Liang (博士), 张瑞 Rui Zhang, 王哈姆 Weihang Wang, 刘博 Bo Liu, 占娜娜 Nana Zhan, 许梦姣 Mengjiao Xu, 张文强 Wenqiang Zhang, 肖若仪 Ruoyi Xiao, 张山风 Shanfeng Zhang, 付柳 Liu Fu (联培)
         </div>
         <br>
