@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 weight: 250
-title: "Ruibin Xing"
+title: "邢瑞斌 Ruibin Xing"
 subtitle: ""
 summary: ""
 authors: []
