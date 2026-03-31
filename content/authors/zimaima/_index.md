@@ -1,14 +1,14 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
-weight: 30
+weight: 210
 title: "马自迈  Zimai Ma"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2025-09-22T08:28:35+08:00
-lastmod: 2025-09-22T08:28:35+08:00
+date: 2025-10-07T22:22:29+08:00
+lastmod: 2025-10-07T22:22:29+08:00
 featured: false
 draft: false
 
@@ -27,11 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-first_name: "Zhiyong"
-last_name: "Yang"
+first_name: "Zimai"
+last_name: "Ma"
 
 authors:
-  - "Zhiyong Yang"
+  - "Zimai Ma"
 
 superuser: false
 
@@ -43,16 +43,11 @@ organizations:
 
 #bio: "My research interest is evolutionary biology."
 
-interests:
-  - "Evolutionary Biology"
-  - "Ethology"
-  - "Photography"
-
 education:
   courses:
     - course: "BSc in Biotechnology"
-      institution: "Hainan University"
-      year: 2022
+      institution: "Hebei University"
+      year: 2025
 
 social:
   - icon: envelope
