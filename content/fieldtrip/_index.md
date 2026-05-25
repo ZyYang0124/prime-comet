@@ -64,6 +64,12 @@ Junxia Zhang, Hongyan Zhang, Yi Ni, Zhiyong Yang
   <a href="/images/fieldtrip/2026-yunnan-jp/10.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/10.jpg"></a>
   <a href="/images/fieldtrip/2026-yunnan-jp/11.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/11.jpg"></a>
   <a href="/images/fieldtrip/2026-yunnan-jp/12.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/12.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/13.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/13.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/14.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/14.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/15.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/15.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/16.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/16.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/17.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/17.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/18.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/18.jpg"></a>
 </div>
 
 ---
