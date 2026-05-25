@@ -49,7 +49,7 @@ banner:
 ---
 
 ## 2026.05 Yunnan
-Junxia Zhang, Hongyan Zhang, Yi Ni, Zhiyong Yanag
+Junxia Zhang, Hongyan Zhang, Yi Ni, Zhiyong Yang
 
 <div class="gallery">
   <a href="/images/fieldtrip/2026-yunnan-jp/1.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/1.jpg"></a>
