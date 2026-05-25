@@ -48,6 +48,26 @@ banner:
 
 ---
 
+## 2026.05 Yunnan
+Junxia Zhang, Hongyan Zhang, Yi Ni, Zhiyong Yanag
+
+<div class="gallery">
+  <a href="/images/fieldtrip/2026-yunnan-jp/1.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/1.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/2.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/2.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/3.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/3.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/4.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/4.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/5.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/5.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/6.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/6.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/7.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/7.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/8.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/8.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/9.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/9.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/10.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/10.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/11.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/11.jpg"></a>
+  <a href="/images/fieldtrip/2026-yunnan-jp/12.jpg" data-fancybox="2025-inner-mongolia"><img src="/images/fieldtrip/2026-yunnan-jp/12.jpg"></a>
+</div>
+
+---
+
 ## 2025.08 East part of Inner Mongolia
 Chang Liu, Zimai Ma
 
