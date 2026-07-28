@@ -38,6 +38,10 @@ filter: false
 
 
 ### 2026
+- **Yu, Kun**, Volker von Wirth, Rick C. West, Shuyuan Zhang, and **Feng Zhang**. 2026. “*Khantao* gen. nov., a new genus of Selenocosmiinae Simon, 1889 from western Yunnan of China (Araneae: Mygalomorphae: Theraphosidae).” Zootaxa 5853 (2): 151–188. doi:10.11646/zootaxa.5853.2.1
+- **Yang, Zhiyong**, **Feng Zhang**, **Kun Yu**, and **Junxia Zhang**. 2026. “Resolving the tribal classification of *Lechia* Żabka, 1985 (Araneae: Salticidae) using UCE phylogenomics and morphology.” Invertebrate Systematics 40 (6): IS25076. doi:10.1071/IS25076
+- **Luo, Zhenhao**, **Yi Ni**, and **Junxia Zhang**. 2026. “Descriptions of two new species of *Spartaeus* Thorell, 1891 (Araneae, Salticidae, Spartaeinae) from southern China.” ZooKeys 1282: 139–150. doi:10.3897/zookeys.1282.194782
+- **Li, Zhaoyi**, **Chao Zhang**, and **Feng Zhang**. 2026. “Advancing the systematics of Araneae: ultraconserved elements phylogenomics demonstrates the non-monophyly of Miturgidae Simon, 1886 and supports the Familial Rank of Systariidae Deeleman-Reinhold, 2001.” Insect Systematics and Diversity 10: ixag022. doi:10.1093/isd/ixag022
 - **Xu, Yiting**, Jiaxian Gong, **Xiangbo Guo**, and **Feng Zhang**. 2026. “A new species of the genus *Sarax* Simon, 1892 (Amblypygi, Charinidae) from China.” Zootaxa 5748 (3): 429–438. doi:10.11646/zootaxa.5748.3.8
 
 ---

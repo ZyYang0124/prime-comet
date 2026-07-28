@@ -35,7 +35,7 @@ authors:
 
 superuser: false
 
-role: "Master student"
+role: "Ph.D student"
 
 organizations:
   - name: "Hebei University"

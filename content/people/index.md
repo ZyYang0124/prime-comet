@@ -28,6 +28,12 @@ sections:
       title: Graduated students
       text: |
         
+        ### 2026
+        <div align="left">
+        倪义 Yi Ni (硕士, 转博), 张海滨 Haibin Zhang, 刘畅 Chang Liu, 刘思琪 Siqi Liu, 徐艺婷 Yiting Xu, 许红康 Hongkang Xu, 李天阳 Tianyang Li, 李怡静 Yijing Li
+        </div>
+        <br>
+
         ### 2025
         <div align="left">
         李招毅 Zhaoyi Li (博士), 范文龙 Wenlong Fan, 孙建州 Jianzhou Sun, 赵佳琦 Jiaqi Zhao, 林珑 Long Lin, 石宋涛 Songtao Shi, 郑涛 Tao Zheng, 白新辕 Xinyuan Bai, 齐肖如 Xiaoru Qi, 杨智勇 Zhiyong Yang, 郝龙 Long Hao, 王铭毅 Mingyi Wang (联培)
