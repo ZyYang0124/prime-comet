@@ -1,6 +1,6 @@
 ---
 title: "UCE Phylogenomics Advances the Systematics of Araneae: Miturgidae Non-Monophyly and Systariidae Elevated to Family Rank"
-subtitle: "Insect Systematics and Diversity 10: ixag022 — https://doi.org/10.1093/isd/ixag022"
+subtitle: "Insect Systematics and Diversity — https://doi.org/10.1093/isd/ixag022"
 summary: "Phylogenomic analyses using ultraconserved elements demonstrate that Systariinae does not belong to Miturgidae, leading to its elevation to family rank as Systariidae."
 authors: [Zhaoyi Li, Chao Zhang, Feng Zhang]
 tags: []

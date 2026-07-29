@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Resolving the Tribal Classification of Lechia Żabka, 1985 (Araneae: Salticidae) Using UCE Phylogenomics and Morphology"
-subtitle: "Invertebrate Systematics 40 (6): IS25076  https://doi.org/10.1071/IS25076"
+subtitle: "Invertebrate Systematics — https://doi.org/10.1071/IS25076"
 summary: "Phylogenomic and morphological evidence resolves the tribal classification of *Lechia* within Chrysillini, with the first formal description of the male of *L. squamata*."
 authors: [Zhiyong Yang, Feng Zhang, Kun Yu, Junxia Zhang]
 tags: []

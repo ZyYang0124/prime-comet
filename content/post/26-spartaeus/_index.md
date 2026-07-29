@@ -1,6 +1,6 @@
 ---
 title: "Two New Species of Spartaeus from Southern China"
-subtitle: "ZooKeys 1282: 139–150 — https://doi.org/10.3897/zookeys.1282.194782"
+subtitle: "ZooKeys — https://doi.org/10.3897/zookeys.1282.194782"
 summary: "Two new species of the genus *Spartaeus* Thorell, 1891 are described from southern China: *S. yingdeensis* sp. nov. from Guangdong and *S. rotiscutus* sp. nov. from Yunnan."
 authors: [Zhenhao Luo, Yi Ni, Junxia Zhang]
 tags: []

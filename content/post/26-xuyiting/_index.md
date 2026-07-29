@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "New Whip Spider Species Discovered in Guangdong"
-subtitle: ""
+subtitle: "Zootaxa — https://doi.org/10.11646/zootaxa.5748.3.8"
 summary: "We have discovered and described a new species of whip spider, *Sarax quinquespinus* sp. nov., from rock crevices in Yuexiu Park, Guangzhou, Guangdong Province, China. This species is uniquely characterized by five dorsal and five ventral spines on the femur of its walking legs. It is the third *Sarax* species recorded in China and the first from Guangdong. The discovery significantly enriches China’s whip spider diversity and fills a long-standing geographic gap in the genus’s known distribution between Yunnan and Fujian provinces, pointing to a potentially distinct East Asian evolutionary lineage."
 authors: [Yiting Xu, Jiaxian Gong, Xiangbo Guo, Feng Zhang]
 tags: []

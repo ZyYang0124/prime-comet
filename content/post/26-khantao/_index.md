@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Khantao gen. nov., a New Genus of Selenocosmiinae from Western Yunnan, China"
-subtitle: "https://doi.org/10.11646/zootaxa.5853.2.1"
+subtitle: "Zootaxa — https://doi.org/10.11646/zootaxa.5853.2.1"
 summary: "A new genus *Khantao* gen. nov. from western Yunnan, China, is established for the subfamily Selenocosmiinae, including three new species and one new combination."
 authors: [Kun Yu, Volker von Wirth, Rick C. West, Shuyuan Zhang, Feng Zhang]
 tags: []

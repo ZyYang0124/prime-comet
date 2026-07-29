@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Integrative Approaches Uncover Diversity of Soil Pseudoscorpions in Hainan"
-subtitle: ""
+subtitle: "Insect Systematics and Diversity — https://doi.org/10.1093/isd/ixaf055"
 summary: "We employed an integrative taxonomy approach to conduct a systematic study of the pseudoscorpion genus *Bisetocreagris* from soil habitats in Hainan Island, China. Given that species in this genus are minute, morphologically highly conserved, and exhibit extensive geographic overlap, species boundaries cannot be reliably delineated using traditional morphology alone. To address this challenge, our study integrates molecular data (including mitochondrial and nuclear gene sequences) with multiple morphological analyses—encompassing geometric morphometrics, traditional morphometrics, and dissection of male genitalia—to comprehensively uncover the true species diversity within this group."
 authors: [Nana Zhan, Feng Zhang, Zegang Feng, Xiangbo Guo]
 tags: []
