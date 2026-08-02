@@ -7,8 +7,8 @@ summary: "Seven master's students successfully defended their theses and graduat
 authors: [Yi Ni, Haibin Zhang, Chang Liu, Siqi Liu, Yiting Xu, Hongkang Xu, Tianyang Li, Yijing Li]
 tags: []
 categories: []
-date: 2026-06-30T14:47:45+08:00
-lastmod: 2026-06-30T14:47:45+08:00
+date: 2026-06-10T14:47:45+08:00
+lastmod: 2026-06-10T14:47:45+08:00
 featured: false
 draft: false
 

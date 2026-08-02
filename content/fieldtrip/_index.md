@@ -48,7 +48,7 @@ banner:
 
 ---
 
-## 2026.07 Yanshan
+## 2026.07 Hebei-Yanshan
 Junxia Zhang, Tao Li, Ruibin Xing, Zhiyong Yang, Hui Xiao
 
 <div class="gallery">
@@ -66,6 +66,7 @@ Junxia Zhang, Tao Li, Ruibin Xing, Zhiyong Yang, Hui Xiao
   <a href="../images/fieldtrip/2026-yanshan1/12.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/12.jpg"></a>
   <a href="../images/fieldtrip/2026-yanshan1/13.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/13.jpg"></a>
   <a href="../images/fieldtrip/2026-yanshan1/14.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/14.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/15.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/15.jpg"></a>
 </div>
 
 ---
