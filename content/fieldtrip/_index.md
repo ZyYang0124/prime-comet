@@ -48,6 +48,28 @@ banner:
 
 ---
 
+## 2026.07 Yanshan
+Junxia Zhang, Tao Li, Ruibin Xing, Zhiyong Yang, Hui Xiao
+
+<div class="gallery">
+  <a href="../images/fieldtrip/2026-yanshan1/1.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/1.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/2.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/2.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/3.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/3.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/4.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/4.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/5.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/5.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/6.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/6.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/7.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/7.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/8.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/8.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/9.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/9.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/10.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/10.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/11.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/11.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/12.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/12.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/13.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/13.jpg"></a>
+  <a href="../images/fieldtrip/2026-yanshan1/14.jpg" data-fancybox="ys-2026-07"><img src="../images/fieldtrip/2026-yanshan1/14.jpg"></a>
+</div>
+
+---
+
 ## 2026.05 Yunnan
 Junxia Zhang, Hongyan Zhang, Yi Ni, Zhiyong Yang
 
