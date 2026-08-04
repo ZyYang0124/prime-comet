@@ -48,6 +48,26 @@ banner:
 
 ---
 
+## 2026.07 Yunnan
+Yunjie Zhang, Jiaxian Gong, Haoran Pan
+
+<div class="gallery">
+  <a href="../images/fieldtrip/2026-Yunnan-xz/1.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/1.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/2.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/2.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/3.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/3.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/4.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/4.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/5.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/5.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/6.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/6.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/7.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/7.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/8.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/8.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/9.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/9.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/10.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/10.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/11.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/11.jpg"></a>
+  <a href="../images/fieldtrip/2026-Yunnan-xz/12.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/12.jpg"></a>
+</div>
+
+---
+
 ## 2026.07 Hebei-Yanshan
 Junxia Zhang, Tao Li, Ruibin Xing, Zhiyong Yang, Hui Xiao
 
