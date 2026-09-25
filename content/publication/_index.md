@@ -38,6 +38,7 @@ filter: false
 
 
 ### 2026
+- **Zhang, Yunjie**, **Kun Yu**, and **Feng Zhang**. 2026. “First record of the family Bemmeridae Simon, 1903 from China, with descriptions of three new species of *Damarchus* Thorell, 1891 (Arachnida, Araneae).” ZooKeys 1287: 153–199. doi:10.3897/zookeys.1287.187795
 - **Yu, Kun**, Volker von Wirth, Rick C. West, Shuyuan Zhang, and **Feng Zhang**. 2026. “*Khantao* gen. nov., a new genus of Selenocosmiinae Simon, 1889 from western Yunnan of China (Araneae: Mygalomorphae: Theraphosidae).” Zootaxa 5853 (2): 151–188. doi:10.11646/zootaxa.5853.2.1
 - **Yang, Zhiyong**, **Feng Zhang**, **Kun Yu**, and **Junxia Zhang**. 2026. “Resolving the tribal classification of *Lechia* Żabka, 1985 (Araneae: Salticidae) using UCE phylogenomics and morphology.” Invertebrate Systematics 40 (6): IS25076. doi:10.1071/IS25076
 - **Yang, Zhiyong**, **Aidie Chen**, **Feng Zhang**, and **Junxia Zhang**. 2026. “Chromosome-level genome assembly of the jumping spider *Spartaeus platnicki*.” Scientific Data 13.
