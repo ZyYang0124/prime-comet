@@ -1,48 +1,92 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# 河北大学蛛形学研究室网站 (Arachnology Lab in HBU)
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+研究室官方网站，线上地址：<https://hbuara.com/>
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+基于 [Hugo](https://gohugo.io/) 与 [HugoBlox (Wowchemy) Research Group 模板](https://github.com/HugoBlox/hugo-blox-builder)搭建，通过 Hugo Modules 引入主题，无需手动维护主题代码。
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 技术栈
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+| 组件 | 版本 / 说明 |
+|---|---|
+| Hugo | **0.135.0 extended**（Netlify 与 GitHub Actions 中均已锁定，请勿随意升级） |
+| Go | Hugo Modules 依赖，本地构建前需安装（建议 1.18+） |
+| 主题 | `blox-bootstrap/v5`（见 `go.mod` 与 `config/_default/module.yaml`） |
+| 部署 | push 到 `main` 分支 → GitHub Actions 自动构建 → GitHub Pages；另保留 `netlify.toml` 可用 Netlify 部署 |
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 本地开发
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+```bash
+# 首次运行会自动下载主题模块（需要已安装 Go）
+hugo server
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+# 本地完整构建（产物输出到 public/，已加入 .gitignore）
+hugo --gc --minify
+```
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+本地预览地址默认为 <http://localhost:1313/>。
 
-## We ask you, humbly, to support this open source movement
+## 目录结构
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+```
+├── config/_default/        # 站点配置（YAML）
+│   ├── hugo.yaml           # 站点名、URL、permalink、输出格式等
+│   ├── params.yaml         # 外观、导航栏、页脚、搜索、CMS 等参数
+│   ├── menus.yaml          # 主导航菜单
+│   ├── languages.yaml      # 语言配置（当前仅英文）
+│   └── module.yaml         # Hugo Modules 主题引入
+├── content/
+│   ├── _index.md           # 首页（hero + 研究方向板块 + 全宽背景图）
+│   ├── tour/               # 研究方向轮播页（slider）
+│   ├── post/               # News 动态，每篇一个文件夹（page bundle）
+│   ├── authors/            # 成员档案，每人一个文件夹
+│   ├── people/             # 团队页（拉取 authors 档案 + 手工维护的毕业生名单）
+│   ├── fieldtrip/          # 野外采集照片墙
+│   ├── publication/        # 论文列表（手工维护的引用）
+│   ├── contact/            # 联系页
+│   └── admin/              # Decap CMS 入口（默认未启用 local backend）
+├── assets/media/           # 首页、轮播页等引用的图片
+├── assets/scss/            # 自定义样式（template.scss）
+├── static/images/          # 野外照片等静态图片
+├── static/media/           # 站点 logo
+└── .github/workflows/      # 部署工作流（publish.yaml）
+```
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## 常见维护任务
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+### 发布新闻（News）
 
-## Demo credits
+在 `content/post/` 下新建文件夹，命名建议 `YY-主题`（如 `26-spartaeus-genome`），内含：
 
-Please replace the demo images with your own.
+- `_index.md`：front matter 需 `title`、`subtitle`（期刊名）、`summary`、`authors`（对应 `content/authors/` 下的 slug）、`date`，正文写在 front matter 之后；
+- `featured.jpg`（可选）：列表页封面图。
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### 更新论文列表（Publications)
+
+编辑 `content/publication/_index.md`：按年份分节（`### 2026`），新论文插到对应年份的最上方，使用 Chicago 格式；本室成员姓名用 `**加粗**`。该页面为纯手工维护，未使用 HugoBlox 的 publication 系统。
+
+### 更新成员（People）
+
+- 在职/新成员：在 `content/authors/<拼音slug>/` 下新建 `_index.md`（可参考 `authors/zhiyongyang/_index.md`），并附 `avatar.jpg`。关键 front matter：`role`、`education`、`social`、`user_groups`（须为 `people/index.md` 中列出的分组之一：Founders / Principal Investigator / Researchers / Students / Graduated students）、`weight`（控制组内排序）。
+- 毕业生名单：手工编辑 `content/people/index.md` 底部的 markdown 列表（按毕业年份分节）。
+
+### 添加野外照片（Field Trip）
+
+1. 图片放入 `static/images/fieldtrip/<行程文件夹>/N.jpg`（1.jpg、2.jpg … 依次编号）；
+2. 在 `content/fieldtrip/_index.md` 顶部（最新行程在最上）照现有格式添加一节：`## YYYY.MM 地点`、成员名单，以及一个 `<div class="gallery">` 块，`data-fancybox` 属性取一个本次行程独有的组名；
+3. 提交前压缩大图（历史上曾因单文件超过 25 MB 导致部署失败）。
+
+### 修改首页 / 研究方向 / 导航
+
+- 首页板块：`content/_index.md`（HugoBlox page builder 的 block 结构）；
+- 研究方向轮播：`content/tour/index.md`（slider slides，图片在 `assets/media/`）；
+- 导航菜单：`config/_default/menus.yaml`；
+- 全站参数（logo、页脚、搜索等）：`config/_default/params.yaml`。
+
+## 部署
+
+推送到 `main` 分支即自动触发 `.github/workflows/publish.yaml` 构建，并由 GitHub Pages 发布。若需 Netlify，`netlify.toml` 已配置好（Hugo 0.135.0 + 缓存插件）。
+
+## 相关链接
+
+- 主题文档：<https://docs.hugoblox.com/>
+- Hugo 文档：<https://gohugo.io/documentation/>
