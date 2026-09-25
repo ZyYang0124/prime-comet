@@ -49,7 +49,7 @@ banner:
 ---
 
 ## 2026.07 Yunnan
-Yunjie Zhang, Jiaxian Gong, Haoran Pan
+Yunjie Zhang, Jiaxian Gong, Haoran Pang
 
 <div class="gallery">
   <a href="../images/fieldtrip/2026-Yunnan-xz/1.jpg" data-fancybox="yn-xz-2026-07"><img src="../images/fieldtrip/2026-Yunnan-xz/1.jpg"></a>
