@@ -15,7 +15,6 @@ sections:
           - Principal Investigator
           - Researchers
           - Students
-          - Graduated students
       sort_by: weight
       sort_ascending: true
     design:
