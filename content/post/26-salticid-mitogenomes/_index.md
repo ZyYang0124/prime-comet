@@ -24,8 +24,6 @@ projects: []
 
 <!--more-->
 
-Our recent study represents a significant advance in the previously underdeveloped field of jumping spider comparative mitogenome research.
-
 **Mitogenome-based phylogeny and evolutionary insights into Salticidae (Araneae) with emphasis on gene order evolution and selective pressures.** *Cladistics.* https://doi.org/10.1111/cla.70078
 
 #### **Abstract:**
