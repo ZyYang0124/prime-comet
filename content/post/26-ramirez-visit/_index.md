@@ -4,7 +4,7 @@
 title: "A Day of Silk, Systematics, and Collaboration: Dr. Martín Ramírez Visited Hebei University"
 subtitle: ""
 summary: "On November 10, 2026, Dr. Martín Ramírez — President of the International Society of Arachnology and Senior Researcher at Argentina's CONICET — visited the Arachnology Laboratory of Hebei University for academic exchange."
-authors: [Zhiyong Yang]
+authors: [Junxia Zhang]
 tags: []
 categories: []
 date: 2026-11-10T00:00:00+08:00
