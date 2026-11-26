@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Ultraconserved Element Phylogenomics Reveals Novel Insights into the Historical Biogeography of Euophryine Jumping Spiders (Araneae: Salticidae)"
+title: "Leaping Across Continents: Phylogenomics Unlocks Historical Biogeography of Euophryine Jumping Spiders"
 subtitle: "Cladistics — https://doi.org/10.1111/cla.70073"
 summary: "Using a phylogenomic approach based on ultraconserved element data, we provide novel insights into the historical biogeography of Euophryini — one of the largest tribes of jumping spiders."
 authors: [Wenqiang Zhang, Zhiyong Yang, Zhaoyi Li, Wayne P. Maddison, Junxia Zhang]
@@ -23,6 +23,8 @@ projects: []
 ---
 
 <!--more-->
+
+**Ultraconserved Element Phylogenomics Reveals Novel Insights into the Historical Biogeography of Euophryine Jumping Spiders (Araneae: Salticidae).** *Cladistics.* https://doi.org/10.1111/cla.70073
 
 #### **Abstract:**
 
