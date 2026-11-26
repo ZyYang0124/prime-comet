@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "New species of Jumping Spider from Tea-Growing Regions"
+title: "New Species of Jumping Spider from Tea-Growing Regions"
 subtitle: "Zootaxa — https://doi.org/10.11646/zootaxa.5890.2.4"
 summary: "Based on specimens collected during long-term field surveys in China's major tea-growing regions, we establish a new chrysilline genus, *Yucattus* gen. nov., describe three new species, and transfer the genus *Madhyattus* from the tribe Hasariini to Chrysillini."
 authors: [Zhiyong Yang, Tao Li, Yi Ni, Junxia Zhang]
