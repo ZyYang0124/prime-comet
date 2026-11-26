@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Mitogenome-based phylogeny and evolutionary insights into Salticidae (Araneae) with emphasis on gene order evolution and selective pressures"
+title: "A Major Advance in Comparative Mitogenomics of Jumping Spiders"
 subtitle: "Cladistics — https://doi.org/10.1111/cla.70078"
 summary: "Our recent study represents a significant advance in the previously underdeveloped field of jumping spider comparative mitogenome research."
 authors: [Zhaoyi Li, Long Lin, Feng Zhang, Junxia Zhang]
@@ -25,6 +25,8 @@ projects: []
 <!--more-->
 
 Our recent study represents a significant advance in the previously underdeveloped field of jumping spider comparative mitogenome research.
+
+**Mitogenome-based phylogeny and evolutionary insights into Salticidae (Araneae) with emphasis on gene order evolution and selective pressures.** *Cladistics.* https://doi.org/10.1111/cla.70078
 
 #### **Abstract:**
 
